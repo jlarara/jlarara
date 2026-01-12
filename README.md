@@ -14,6 +14,7 @@ I am a Software Developer dedicated to building functional and scalable applicat
 Languages: Java, Python, JavaScript, TypeScript, PHP, C# Backend: Spring Boot, Node.js Frontend: Angular, HTML5, CSS3 Databases: MySQL, PostgreSQL, Oracle Database
 
 🚀 Development Experience:
+
 Web Systems: Development of modules for service portals and digital tools.
 Resource Management: Implementation of centralized repositories for document management.
 Integrated Solutions: Creation of automated flows and initial development of communication tools like chatbots.
