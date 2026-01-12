@@ -15,6 +15,6 @@ Languages: Java, Python, JavaScript, TypeScript, PHP, C# Backend: Spring Boot, N
 
 🚀 Development Experience:
 
-Web Systems: Development of modules for service portals and digital tools.
-Resource Management: Implementation of centralized repositories for document management.
+Web Systems: Development of modules for service portals and digital tools.<br>
+Resource Management: Implementation of centralized repositories for document management.<br>
 Integrated Solutions: Creation of automated flows and initial development of communication tools like chatbots.
