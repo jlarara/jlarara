@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there!
 
 I am a Software Developer dedicated to building functional and scalable applications. My experience covers both frontend and backend development, focusing on creating efficient digital solutions.
 
